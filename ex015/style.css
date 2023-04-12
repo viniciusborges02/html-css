@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: aqua;
+    font-family: fantasy;
+    font-size: 15px;
+}
+h1 {
+    color: blue;
+    font-family: inherit;
+    
+}
+h2 {
+    color: darkgreen;
+}
+p {
+    background-color: white;
+    text-align: justify;
+}
